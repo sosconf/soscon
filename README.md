@@ -1,2 +1,2 @@
 # soscon
-soscon.top
+soscon.top redirection to https://sosconf.org
